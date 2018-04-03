@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../1-Base" />
+            <option value="$PROJECT_DIR$/../2-Color" />
+            <option value="$PROJECT_DIR$/../3-Layout" />
+            <option value="$PROJECT_DIR$/../4-RecyclerView" />
+            <option value="$PROJECT_DIR$/../5-VectorAssets" />
+            <option value="$PROJECT_DIR$/../6-PageElement" />
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

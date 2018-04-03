@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_profile.xml",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\menu\\menu_profile.xml"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_navigation.xml",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\menu\\menu_navigation.xml"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat_menu.xml",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\menu\\chat_menu.xml"
+    }
+]

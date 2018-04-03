@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ic_emoji_smile.xml",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-nodpi\\ic_emoji_smile.xml"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ic_emoji_recent.xml",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-nodpi\\ic_emoji_recent.xml"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ic_emoji_symbol.xml",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-nodpi\\ic_emoji_symbol.xml"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ic_emoji_bell.xml",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-nodpi\\ic_emoji_bell.xml"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\background_tab.xml",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-nodpi\\background_tab.xml"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\background2.jpg",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-nodpi\\background2.jpg"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ic_emoji_flower.xml",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-nodpi\\ic_emoji_flower.xml"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\chat_divider.xml",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-nodpi\\chat_divider.xml"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\list_selector.xml",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-nodpi\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ic_emoji_backspace.xml",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-nodpi\\ic_emoji_backspace.xml"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\transparent.xml",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-nodpi\\transparent.xml"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ic_emoji_car.xml",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-nodpi\\ic_emoji_car.xml"
+    }
+]

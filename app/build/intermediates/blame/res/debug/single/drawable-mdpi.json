@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_smiles_grid.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_smiles_grid.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_smiles_backspace.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_smiles_backspace.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_smiles_recent.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_smiles_recent.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_smiles_grid_active.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_smiles_grid_active.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_smiles_smile.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_smiles_smile.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_smiles_backspace_active.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_smiles_backspace_active.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_smiles_recent_active.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_smiles_recent_active.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_smiles_flower_active.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_smiles_flower_active.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_smiles_smile_active.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_smiles_smile_active.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_black_24dp.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_smiles_bell.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_smiles_bell.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bg_emoji_bs.9.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\bg_emoji_bs.9.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_smiles_flower.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_smiles_flower.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_favorite_black_24dp.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_smiles_car_active.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_smiles_car_active.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_smiles_bell_active.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_smiles_bell_active.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_bookmark_border_black_24dp.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_bookmark_border_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_smiles_car.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_smiles_car.png"
+    },
+    {
+        "merged": "D:\\Ovistalk\\android-design-library\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_msg_panel_smiles.png",
+        "source": "D:\\Ovistalk\\android-design-library\\app\\src\\main\\res\\drawable-mdpi\\ic_msg_panel_smiles.png"
+    }
+]

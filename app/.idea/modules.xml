@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../1-Base/1-Base.iml" filepath="$PROJECT_DIR$/../1-Base/1-Base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2-Color/2-Color.iml" filepath="$PROJECT_DIR$/../2-Color/2-Color.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../3-Layout/3-Layout.iml" filepath="$PROJECT_DIR$/../3-Layout/3-Layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../4-RecyclerView/4-RecyclerView.iml" filepath="$PROJECT_DIR$/../4-RecyclerView/4-RecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../5-VectorAssets/5-VectorAssets.iml" filepath="$PROJECT_DIR$/../5-VectorAssets/5-VectorAssets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../6-PageElement/6-PageElement.iml" filepath="$PROJECT_DIR$/../6-PageElement/6-PageElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../android-design-library.iml" filepath="$PROJECT_DIR$/../android-design-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" />
+    </modules>
+  </component>
+</project>

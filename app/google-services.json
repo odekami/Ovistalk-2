@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "896390849093",
+    "firebase_url": "https://ovistalk2.firebaseio.com",
+    "project_id": "ovistalk2",
+    "storage_bucket": "ovistalk2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896390849093:android:573ac45026c16421",
+        "android_client_info": {
+          "package_name": "com.ovistalk2.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896390849093-c3m6eeth4am0ribosrbt3tqorbgcq7vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ovistalk2.com",
+            "certificate_hash": "54d34aac1b96b4116a74486c063d3a2284f9b4fa"
+          }
+        },
+        {
+          "client_id": "896390849093-4n0qv6ajnj4oei4ajph7o9uomrh0sfqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5HxDhwv5zP8GTfyRs3UGfjeFhdVpJkHk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896390849093-4n0qv6ajnj4oei4ajph7o9uomrh0sfqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896390849093:android:d842af33038fad5c",
+        "android_client_info": {
+          "package_name": "info.androidhive.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896390849093-0o3v36pa9kastpf7vvo4m5fpdcs9osi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.androidhive.firebase",
+            "certificate_hash": "54d34aac1b96b4116a74486c063d3a2284f9b4fa"
+          }
+        },
+        {
+          "client_id": "896390849093-4n0qv6ajnj4oei4ajph7o9uomrh0sfqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5HxDhwv5zP8GTfyRs3UGfjeFhdVpJkHk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896390849093-4n0qv6ajnj4oei4ajph7o9uomrh0sfqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896390849093:android:901ae5df5b96f251",
+        "android_client_info": {
+          "package_name": "com.inducesmile.androidmusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896390849093-t5fph1unotk67nujsfo1sppophnsuiar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inducesmile.androidmusicplayer",
+            "certificate_hash": "45a6ddb40b05833092e1f7c6049b06251381d02c"
+          }
+        },
+        {
+          "client_id": "896390849093-4n0qv6ajnj4oei4ajph7o9uomrh0sfqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5HxDhwv5zP8GTfyRs3UGfjeFhdVpJkHk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896390849093-4n0qv6ajnj4oei4ajph7o9uomrh0sfqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896390849093:android:7a28cd5f9c698dc9",
+        "android_client_info": {
+          "package_name": "com.example.android.materialdesigncodelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896390849093-387g3hhudo2lj015dkba008e7ctj7ilk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.materialdesigncodelab",
+            "certificate_hash": "45a6ddb40b05833092e1f7c6049b06251381d02c"
+          }
+        },
+        {
+          "client_id": "896390849093-4n0qv6ajnj4oei4ajph7o9uomrh0sfqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5HxDhwv5zP8GTfyRs3UGfjeFhdVpJkHk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896390849093-4n0qv6ajnj4oei4ajph7o9uomrh0sfqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
